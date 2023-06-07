@@ -39,7 +39,8 @@ This is a practise API testing with the help of demo DMoney API. I have generate
 [https://documenter.getpostman.com/view/23351657/2s8ZDbX1VA](https://documenter.getpostman.com/view/17855925/2s93mBvJ9S)
 
 ### Screenshot of Newman Report
-https://drive.google.com/file/d/1BzgkxPLJlCqNCgZ5KxSNJPl7wr2MbW9S/view?usp=sharing
+![Newman Report](https://github.com/foysal619/Dmoney-API-Testing/assets/61048879/66b4235e-b3b2-47ab-9aeb-1d382f99b382)
+
 
 
 
