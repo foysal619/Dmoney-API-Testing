@@ -4,7 +4,7 @@ This is a practise API testing with the help of demo DMoney API. I have generate
 
 ## Test Case Scenarios Covered
 
-1. Admin creates an agent and random 2 customers.
+1. Admin creates an agent and random 2 customers
 2. Deposit some money from SYSTEM account to the agent. System account (range 10 tk to 10000 tk)
 3. Agent deposit to any of 1 customer
 4. Check agent balance
