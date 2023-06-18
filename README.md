@@ -9,7 +9,7 @@ This is a practise API testing with the help of demo DMoney API. I have generate
 3. Agent deposit to any of 1 customer
 4. Check agent balance
 5. Then withdraw any amount by the customer from the agent (range 10tk to 10000tk)
-6. Then the customer checks balance
+6. Then the customer checks balance.
 7. Then send money to the other customer
 8. Then from the another customer payment to this merchant: 01686606905
 9. Then the second customer will check both balance and statement
