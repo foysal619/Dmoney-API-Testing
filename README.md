@@ -1,24 +1,24 @@
 # DMoney API Testing
 
-This is a practise API testing with the help of demo DMoney API. I have generated some test scenarios with the help of postman and report using newman.
+This is a practice API testing with the help of demo DMoney API. I have generated some test scenarios with the help of Postman and a report using Newman.
 
 ## Test Case Scenarios Covered
 
 1. Admin creates an agent and random 2 customers
-2. Deposit some money from SYSTEM account to the agent. System account (range 10tk to 10000tk)
+2. Deposit some money from the SYSTEM account to the agent. System account (range 10tk to 10000tk)
 3. Agent deposit to any of 1 customer
-4. Check agent balance
+4. Check agent balance.
 5. Then withdraw any amount by the customer from the agent (range 10tk to 10000tk)
-6. Then the customer checks balance
+6. Then the customer checks the balance
 7. Then send money to the other customer
-8. Then from the another customer payment to this merchant: 01686606905
-9. Then the second customer will check both balance and statement
+8. Then from another customer payment to this merchant: 01686606905
+9. Then the second customer will check both the balance and statement
 10. Then the merchant will check his own balance
 
 ## How to run this project
 
 - Clone This project
-- Then run the follwing command 
+- Then run the following command 
 
 ```bash
   npm i
